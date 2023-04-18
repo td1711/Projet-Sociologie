@@ -306,5 +306,6 @@ def profession_par_decennie():
         dico[cle] = dico_code_prof[dico[cle][0]]
     return dico
 
-prenoms_courants_par_decennie()
-profession_par_decennie()
+
+#print(prenoms_courants_par_decennie())
+#print(profession_par_decennie())
